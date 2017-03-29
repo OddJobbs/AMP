@@ -1,5 +1,4 @@
-# AMP
-AMP HTML page
+# AMP HTML page
 
 The <strong><a href="https://www.ampproject.org/">Accelerated Mobile Pages</a></strong> or <strong>AMP Project</strong> allows you to create webpages that load consistently fast across devices and distribution platforms. 
 
